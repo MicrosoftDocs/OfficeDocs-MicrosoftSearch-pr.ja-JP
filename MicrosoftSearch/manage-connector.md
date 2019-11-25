@@ -1,5 +1,5 @@
 ---
-title: Microsoft 検索用の Microsoft Graph コネクタを管理する
+title: Microsoft Search 用の Microsoft Graph コネクタの管理
 ms.author: mounika.narayanan
 author: monaray
 manager: mnirkhe
@@ -11,7 +11,7 @@ search.appverid:
 - BFB160
 - MET150
 - MOE150
-description: Microsoft 検索用の Microsoft Graph コネクタを管理します。
+description: Microsoft Search 用の Microsoft Graph コネクタの管理
 ms.openlocfilehash: 962ceb488fa308eb31a98a8fad33d628f3590e89
 ms.sourcegitcommit: 1255c2612aec290ae117bdc24c3b4dabd1e5ca11
 ms.translationtype: MT
@@ -19,7 +19,7 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 11/23/2019
 ms.locfileid: "39205869"
 ---
-# <a name="manage-your-connector-for-microsoft-search"></a><span data-ttu-id="2ce36-103">Microsoft Search のためにコネクタを管理する</span><span class="sxs-lookup"><span data-stu-id="2ce36-103">Manage your connector for Microsoft Search</span></span>
+# <a name="manage-your-connector-for-microsoft-search"></a><span data-ttu-id="2ce36-103">Microsoft Search 用のコネクタ管理</span><span class="sxs-lookup"><span data-stu-id="2ce36-103">Manage your connector for Microsoft Search</span></span>
 
 <span data-ttu-id="2ce36-104">コネクタにアクセスして管理するには、テナントの検索管理者として指定する必要があります。</span><span class="sxs-lookup"><span data-stu-id="2ce36-104">To access and manage your connectors, you must be designated as a search administrator for your tenant.</span></span> <span data-ttu-id="2ce36-105">テナント管理者に連絡して、検索管理者ロールのプロビジョニングを行います。</span><span class="sxs-lookup"><span data-stu-id="2ce36-105">Contact your tenant administrator to provision you for the search administrator role.</span></span>
 
