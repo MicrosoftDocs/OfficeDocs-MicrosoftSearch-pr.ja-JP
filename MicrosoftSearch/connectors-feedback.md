@@ -11,7 +11,7 @@ search.appverid:
 - BFB160
 - MET150
 - MOE150
-description: Microsoft 検索コネクタにフィードバックを提供する方法
+description: Microsoft Search コネクタにフィードバックを提供する方法
 ms.openlocfilehash: a2ed1b513c0d5f34ba1406ab7c36bec57c7ff3ee
 ms.sourcegitcommit: 21361af7c244ffd6ff8689fd0ff0daa359bf4129
 ms.translationtype: MT
@@ -25,5 +25,5 @@ ms.locfileid: "38626482"
 
 * <span data-ttu-id="35067-105">**一般的な質問:**[Microsoft Graph コネクタのフィードバックグループ](mailto:MicrosoftGraphConnectorsFeedback@service.microsoft.com)に電子メールを送信します。</span><span class="sxs-lookup"><span data-stu-id="35067-105">**General questions:** Send an email to the [Microsoft Graph connectors feedback group](mailto:MicrosoftGraphConnectorsFeedback@service.microsoft.com).</span></span>
 * <span data-ttu-id="35067-106">**ドキュメントに関するフィードバック:** Microsoft Graph のコネクタに関するドキュメントについて質問がある場合や、気に入った点や気に入らないことについてご質問がある場合は、記事の最後にフィードバックを提供することができます。</span><span class="sxs-lookup"><span data-stu-id="35067-106">**Documentation feedback:** If you have questions about the Microsoft Graph connectors documentation or want to tell us what you like or don't like, you can provide feedback at the bottom of any article.</span></span> 
-* <span data-ttu-id="35067-107">**機能の要求:** プラットフォームで必要な操作を行うことができない場合は、 <a href="https://office365.uservoice.com/forums/925270-microsoft-search" target="_blank" data-linktype="external">Microsoft 検索 UserVoice</a>のカテゴリ**コネクタ**の下で機能の提案を行います。</span><span class="sxs-lookup"><span data-stu-id="35067-107">**Feature requests:** If our platform doesn't empower you to do what you need, make your feature suggestions under the category **Connectors** on the <a href="https://office365.uservoice.com/forums/925270-microsoft-search" target="_blank" data-linktype="external">Microsoft Search UserVoice</a>.</span></span>
+* <span data-ttu-id="35067-107">**機能の要求:** プラットフォームで必要な操作を行うことができない場合は、 <a href="https://office365.uservoice.com/forums/925270-microsoft-search" target="_blank" data-linktype="external">Microsoft Search UserVoice</a>のカテゴリ**コネクタ**の下で機能の提案を行います。</span><span class="sxs-lookup"><span data-stu-id="35067-107">**Feature requests:** If our platform doesn't empower you to do what you need, make your feature suggestions under the category **Connectors** on the <a href="https://office365.uservoice.com/forums/925270-microsoft-search" target="_blank" data-linktype="external">Microsoft Search UserVoice</a>.</span></span>
 
