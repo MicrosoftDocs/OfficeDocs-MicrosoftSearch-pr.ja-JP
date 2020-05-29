@@ -8,7 +8,6 @@
 ## [頭字語](manage-acronyms.md)
 ## [ブックマーク](manage-bookmarks.md)
 ## [フロア設計](manage-floorplans.md)
-### [ベスト プラクティス](floorplans-bestpractices.md)
 ## [場所](manage-locations.md)
 ## [Q&A](manage-qas.md)
 # コネクタ (プレビュー)
