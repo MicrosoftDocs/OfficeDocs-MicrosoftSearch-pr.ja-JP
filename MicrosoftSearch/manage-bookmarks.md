@@ -90,11 +90,11 @@ ms.locfileid: "45167459"
 - 複数のブックマークに重複した URL を使用しないでください。 URL が既に別のブックマークに割り当てられていて、それをインポートファイルから再び追加する場合は、エラーが表示されます。 これは、他の種類の応答の重複した Url にも適用されます。
 - 既存のブックマークを更新するときは、*ブックマーク ID*列を使用します。 キーワードや説明などの既存のブックマークの他のプロパティは更新できますが、*ブックマーク ID*がインポートファイルの適切な列にあることを確認する必要があります。 *ブックマーク ID*が存在する場合、サービスは新しい追加として考慮しません。エラーとして処理されません。
 
-## <a name="power-apps"></a>Power アプリ
+## <a name="power-apps"></a>Power Apps
 
-既存の PowerApps をブックマークに追加することにより、休暇期間の入力または経費の報告などのユーザーのタスク完了を支援します。
+既存の Power Apps をブックマークに追加することにより、休暇期間の入力または経費の報告などのユーザーのタスク完了を支援します。
 
-### <a name="power-apps-explained"></a>電源アプリについての説明
+### <a name="power-apps-explained"></a>Power Apps についての説明
 
 Power Apps は、コーディング操作を必要とせずに、ブラウザーまたは電話やタブレットで実行されるビジネスアプリケーションを構築できるようにするサービスです。 PowerApps は、どのブラウザーやデバイスでも動作し、追加するのに 1 分かかりません。 PowerApps の詳細については、以下を参照してください。
 
@@ -104,7 +104,7 @@ Power Apps は、コーディング操作を必要とせずに、ブラウザー
 
 ### <a name="add-a-power-app-to-a-bookmark"></a>Power App をブックマークに追加する
 
-1. 追加する[電源アプリのアプリ ID](https://docs.microsoft.com/powerapps/maker/canvas-apps/get-sessionid#get-an-app-id)を検索します。
+1. 追加する[Power Apps のアプリ ID](https://docs.microsoft.com/powerapps/maker/canvas-apps/get-sessionid#get-an-app-id)を検索します。
 1. [**Microsoft 365 管理センター**](https://admin.microsoft.com)にサインインします。
 1. ナビゲーションウィンドウで、[**設定**] [  >  **Microsoft 検索**  >  **応答**  >  [**ブックマーク**](https://admin.microsoft.com/Adminportal/Home#/MicrosoftSearch/bookmarks)] に移動します。
 1. ブックマークを追加するか、**PowerApp** を追加する既存のブックマークを検索します。
